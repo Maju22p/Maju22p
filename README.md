@@ -1,7 +1,7 @@
 ### Olá, Aceita um café? ☕
 * Ela/Dela
 * Planejo trabalhar com back-end💻
-* Estudando Html e php
+* Estudando  php
 * Tecnologa em desenvolvimento de sistemas 
 <div>
 <a href="https://github.com/Maju22p">
