@@ -2,8 +2,8 @@
 * Ela/Dela
 * Planejo trabalhar com back-end💻
 * Estudando  php
-* Tecnologa em desenvolvimento de sistemas 
-*Cursando Engenharia de Software
+* Tecnologa em desenvolvimento de sistemas
+*  Cursando Engenharia de Software
 <div>
 <a href="https://github.com/Maju22p">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=maju22p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
