@@ -13,7 +13,7 @@
 * Cursando Engenharia de Software
 
 <div>
-<img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=maju22p&bg_color=1a1b27&color=9e4c98&line=7a28d7&point=049cfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
+<img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=maju22p&bg_color=1a1b27&color=9e4c98&line=7a28d7&point=049cfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
 </Div>
   
  ##
