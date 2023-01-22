@@ -12,10 +12,6 @@
 
 * Cursando Engenharia de Software
 
-
-<div>
-<img align="right" height="120" src="https://github.com/Maju22p/Maju22p/blob/main/ezgif.com-gif-maker.gif"/>
-</div>
 <div>
 <img align="center" width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=maju22p&bg_color=1a1b27&color=9e4c98&line=7a28d7&point=049cfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
 </Div>
