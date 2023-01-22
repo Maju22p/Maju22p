@@ -20,10 +20,9 @@
   
 <div align="center">
 <a href="https://github.com/Maju22p">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maju22p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=maju22p&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maju22p&layout=compact&hide_border=true&title_color=38BCADa4&text_color=7727D1&bg_color=0d1117" />
   </div>
   
-##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7727D1&height=120&section=footer"/>
