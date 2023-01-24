@@ -22,7 +22,7 @@
 <div align="center">
 <a href="https://github.com/Maju22p">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maju22p&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&bg_color=0d1117&count_private=true"/>
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maju22p&layout=compact&hide_border=true&title_color=38BCADa4&text_color=7727D1&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maju22p&layout=compact&hide_border=true&title_color=38BCADa4&text_color=7727D1&bg_color=0d1117&count_private=true" />
   </div>
   
 <div align="center">
