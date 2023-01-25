@@ -16,7 +16,6 @@
   
  ##
   
-
 <div align="center">
 <a href="https://github.com/Maju22p">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maju22p&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&bg_color=0d1117&count_private=true"/>
