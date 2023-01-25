@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7727D1"/>
+
 [   ![Typing SVG](https://readme-typing-svg.demolab.com/?color=7727D1&center=true&lines=Olá,+aceita+um+café☕?;Hello,+Would+you+like+some+coffee☕?)](https://git.io/typing-svg)
 
 * Ela/Dela 
