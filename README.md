@@ -22,6 +22,11 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maju22p&layout=compact&hide_border=true&title_color=38BCADa4&text_color=7727D1&bg_color=0d1117&count_private=true" />
   </div>
   
+ <div align="center">
+    <a href = "mailto:mariab.jpedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-julia-pedro-ba133924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maju22p}/count.svg" /></p> 
