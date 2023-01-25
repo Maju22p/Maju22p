@@ -6,8 +6,6 @@
 
 * Planejo trabalhar com back-end💻
 
-* Estudando  php
-
 * Tecnologa em desenvolvimento de sistemas
 
 * Cursando Engenharia de Software
