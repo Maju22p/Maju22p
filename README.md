@@ -2,7 +2,7 @@
 
 [   ![Typing SVG](https://readme-typing-svg.demolab.com/?color=7727D1&center=true&lines=Olá,+aceita+um+café☕?;Hello,+Would+you+like+some+coffee☕?)](https://git.io/typing-svg)
 
-* Ela/Dela 
+* Ela/Dela (she/her); 
 
 * Planejo trabalhar com back-end💻
 
