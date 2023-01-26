@@ -4,7 +4,7 @@
 
 * Ela/Dela (she/her); 
 
-* Planejo trabalhar com back-end💻
+* Planejo trabalhar com back-end💻;
 
 * Tecnologa em desenvolvimento de sistemas;
 
