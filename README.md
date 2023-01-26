@@ -6,8 +6,8 @@
 
 * Planejo trabalhar com back-end💻
 
-* Tecnologa em desenvolvimento de sistemas
-.
+* Tecnologa em desenvolvimento de sistemas;
+
 * Cursando Engenharia de Software;
 
 <div>
