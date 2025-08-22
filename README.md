@@ -3,7 +3,7 @@
 [   ![Typing SVG](https://readme-typing-svg.demolab.com/?color=7727D1&center=true&lines=Olá,+aceita+um+café☕?;Hello,+Would+you+like+some+coffee☕?)](https://git.io/typing-svg)
 
 
-* Planejo trabalhar com back-end💻;
+Sou estudante de Engenharia da Computação com habilidades em pensamento crítico, programação e multilinguismo. Tenho como valores proteger pessoas e combater injustiças digitais, e me interesso em identificar e corrigir vulnerabilidades para garantir a segurança de dados. Busco contribuir com organizações que priorizam a cibersegurança, ajudando a antecipar riscos e proteger ativos críticos.
 
 * Tecnologa em desenvolvimento de sistemas;
 
